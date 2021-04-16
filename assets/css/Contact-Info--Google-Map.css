@@ -1,0 +1,134 @@
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.icon.ion-social-linkedin {
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+.short_glance {
+  font-weight: bold;
+}
+
+.hidepy {
+  display: none;
+}
+
+.skillicon {
+  margin-bottom: 40px;
+  margin-top: 40px;
+  padding-top: 0px;
+}
+
+.my_image {
+  width: 150px;
+  height: 150px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+  border-radius: 100px;
+  margin-bottom: 30px;
+}
+
+text-align: center; font-size: 50px; background-color: #0ea0ff; color: #fff; height: 70px; width: 70px; line-height: 69px; display: inline-block; border-radius: 50%; {
+}
+
+.typcn.typcn-edit.skillsicon.skillicons {
+  background-color: white;
+  height: 70px;
+  font-size: 30px;
+  width: 10px;
+  line-height: 69px;
+  display: inline-block;
+}
+
+.icon.ion-social-wordpress.skillsicon.skillicons {
+  font-size: 30px;
+  background-color: white;
+  height: 70px;
+  width: 10px;
+  line-height: 69px;
+  display: inline-block;
+}
+
+.icon.ion-social-css3.skillsicon.skillicons {
+  background-color: white;
+  height: 70px;
+  font-size: 30px;
+  width: 10px;
+  line-height: 69px;
+  display: inline-block;
+}
+
+.icon.ion-social-html5.skillsicon.skillicons {
+  background-color: white;
+  height: 70px;
+  font-size: 30px;
+  width: 10px;
+  line-height: 69px;
+  display: inline-block;
+}
+
+.icon.ion-social-python.skillsicon.skillicon1 {
+  background-color: white;
+  font-size: 30px;
+  height: 70px;
+  width: 10px;
+  line-height: 69px;
+  display: inline-block;
+}
+
+.icon.ion-social-python.skillsicon.skillicon1:hover {
+  color: #0075c1;
+}
+
+.icon.ion-social-html5.skillsicon.skillicons:hover {
+  color: #0075c1;
+}
+
+.icon.ion-social-css3.skillsicon.skillicons:hover {
+  color: #0075c1;
+}
+
+.icon.ion-social-wordpress.skillsicon.skillicons:hover {
+  color: #0075c1;
+}
+
+.typcn.typcn-edit.skillsicon.skillicons:hover {
+  color: #0075c1;
+}
+
+.icon.ion-social-twitter.twitter:hover {
+  color: #0075c1;
+}
+
+.icon.ion-social-linkedin:hover {
+  color: #0075c1;
+}
+
+.icon.ion-social-github:hover {
+  color: #0075c1;
+}
+
+.icon.ion-social-instagram:hover {
+  color: #0075c1;
+}
+
+.icon.ion-social-youtube:hover {
+  color: #0075c1;
+}
+
+.icon.ion-social-twitter:hover {
+  color: #0075c1;
+}
+
